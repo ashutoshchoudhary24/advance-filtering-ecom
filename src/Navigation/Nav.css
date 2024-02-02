@@ -1,8 +1,8 @@
 nav{
     display: flex;
-    border-bottom: 2px solid #f3f3f3;
+    border-bottom: 8px solid #f3f3f3;
     justify-content: space-around;
-    align-items: center;
+    align-items:center ;
     padding: 20px;
     z-index: 999;
     margin-left: 2rem;
@@ -28,5 +28,7 @@ input{
 }
 /* //added on my own  */
 .search-input{
-    margin-left: 68px;
+    margin-left: 140px;
+    width:100cap;
+    background-color: #f8f3f3;
 }
